@@ -1,0 +1,15 @@
+header {
+  text-align: center;
+  margin: 40px;
+}
+
+#playerDivs {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+#player1,
+#player2 {
+  border: 1px solid black;
+}
